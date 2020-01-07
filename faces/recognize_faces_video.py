@@ -6,6 +6,10 @@ import pickle
 import time
 import cv2
 import os
+# Image         Detect  Recognised
+# 1         :   20/0      7/6
+# 2         :   ?       ?
+
 # https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
 # https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
 args = {}
